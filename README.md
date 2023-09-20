@@ -15,3 +15,8 @@ O xadrez é um jogo milenar que envolve habilidade, estratégia e previsão de m
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+<p align="center">
+  Feito com ❤️ por Lukas Maia
+</p>
+
